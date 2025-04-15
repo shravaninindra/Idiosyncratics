@@ -1,0 +1,14 @@
+version: '3.7'
+
+services:
+
+  sample:
+    container_name: react-berry
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - 3000:80
+    environment:
+      - CHOKIDAR_USEPOLLING=true
+      - API_URL=http://localhost:5000  #Url of the backend application
