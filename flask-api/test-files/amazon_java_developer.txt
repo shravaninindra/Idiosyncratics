@@ -1,0 +1,17 @@
+What You Need To Succeed
+
+Experience building a high performance, horizontally scalable, low latency service using the latest technologies.
+Proficiency in Java or other contemporary languages.
+Proficiency in SQL and experience with scalable, distributed NoSQL datastores such as Cassandra, Hbase, Aerospike, or Redis.
+Real passion for quality and engineering excellence at scale.
+Strong problem solving and debugging skills and direct experience with DevOps in a SaaS environment including monitoring, alerting and on call.
+Excellent communication and collaboration skills.
+Undergraduate/Graduate degree in quantitative sciences/engineering.
+2+ years of experience in design and development of software systems.
+
+Nice to have
+
+Experience in Big Data processing in batch or streaming contexts with platforms like Hadoop, Spark, Spark Streaming, Storm, or Flink.
+Experience in a cloud-native stack: containerized compute (e.g. Kubernetes), infrastructure-as-code, CI/CD and cloud services (AWS, Azure).
+Experience with batch data processing and streaming compute (e.g. Kafka).
+Expertise in microservice architecture, REST APIs, gRPC.

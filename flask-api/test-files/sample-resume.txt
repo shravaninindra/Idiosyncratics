@@ -1,0 +1,153 @@
+KEVIN CONROY
+14110 Stanwood Terrace #302 kevinconroy@gmail.com
+Rockville, MD 20850 http://www.cs.umd.edu/~meesh/kmconroy Cell: 301-520-1104
+EXPERIENCE
+Senior Java Web Developer
+GlobalGiving / ManyFutures, Inc., Washington, D.C. April 2007 - Present
+• Designed, developed, and maintained all aspects of www.globalgiving.com including user experience, graphic design, business logic, and web development.
+• Worked with business team to design and develop co-branded intranet web sites for clients such as Ford Motor Company, Gap Inc, Applied Materials, and other Fortune 500 companies.
+Research Specialist
+Accenture Technology Labs, Chicago, IL August 2006 – April 2007
+• Worked in Systems Integration group researching software engineering, collaborative development, Web services, and Service Oriented Architectures (SOA).
+• Developed extensible framework for adapting legacy applications into Web services using a drag-and-drop interface.
+• Developed a search engine and interface for finding relevant code samples and applications from a large repository of projects.
+• Proposed and developed research projects on software engineering, collaboration, and next-generation IDE capabilities.
+• Helped define Accenture’s 2007 Technology Vision for software
+metrics and collaborative software development.
+Lead User Experience Designer and Software Engineer Hillcrest Laboratories, Inc., Rockville, MD
+June 2004 – August 2006
+• Developed award-winning user interfaces for next-generation television and home entertainment product (HoMETM).
+• Designed, prototyped, and implemented interface for all television related components in product.
+• Contributed over 80,000 lines of Java and 20,000 lines of JavaScript to core software framework.
+• Implemented object-oriented MPEG-2 encoder/decoder in Java.
+• Incorporated latest human-computer interaction research in
+prototypes and production systems.
+• Developed full-featured prototypes and conducted user studies.
+• Created corporate human-computer interaction guidelines and
+interface design process.
+• Managed software engineering development for application layer.
+• Composed coding standards and software development life-cycle
+for user experience software engineers.
+• Developed plug-ins for Eclipse to help programmers adhere to
+coding standards and develop code more quickly.
+• Ported software to J2ME platform for customer demonstrations.
+• Mentored college intern for Fall 2005 semester.
+PROGRAMMING LANGUAGES
+• Java
+• JavaScript,
+ECMAScript
+• JSP
+• C/C++
+• C#
+• SQL
+• ASP/ASP.NET
+• VB .NET
+• Perl
+• XML/HTML
+• SVG
+SKILLS
+• Human- Computer Interaction
+• User Interface Design
+• Object Oriented Programming
+• Test-Driven Development
+• Rapid Development
+• Paper Prototyping
+• Agile Techniques
+• SCRUM/XP
+TECHNOLOGY PROFICIENCIES
+• Eclipse
+• Eclipse Plug-ins
+• Eclipse RCP
+• Tomcat/Apache
+• Web Services
+(SOAP and
+REST)
+• Google Web
+Toolkit (GWT)
+• JUnit
+• Log4J
+• Ant
+• Axis/Axis2
+• Hibernate
+• Velocity
+• J2ME, J2SE,
+J2EE
+• OpenGL/JOGL
+• OpenAL/JOAL
+• CruiseControl
+• JIRA/Bugzilla
+• MySql
+• Visual Studio
+.NET
+• SQL Server
+1
+ KEVIN CONROY
+• Represented company at conferences and in business meetings
+ • Microsoft Office
+• Macromedia MX
+Suite
+• Photoshop
+• Premiere
+• Windows XP
+• Unix/Linux
+PROFESSIONAL ACTIVITIES
+• CHI 2006
+(Computer- Human Interaction Conference)
+• UIST 2004 & 2005
+(User Interface Software and Technology)
+• CES 2005 & 2006
+(International Consumer Electronics Show)
+• D3 2005
+(The Wall Street Journal’s D3: All Things Digital Conference)
+• Member of Association for Computing Machinery (ACM), 2004 – 2007
+• Reviewer for CHI 2006 Work-in- Progress Papers
+with several Fortune 500 executives.
+Research Assistant
+Human-Computer Interaction Laboratory University of Maryland, College Park, MD Advisor: François Guimbretière
+February 2003 – May 2004
+• Researched techniques that allow users to import hand-written annotations into digital documents.
+• Expanded AbiWord word processor to incorporate proposed interactions and validate research.
+• Presented research at ACM User Interface Software and Technology (UIST) Conference 2004 and submitted paper to ACM Transaction on Computer-Human Interaction (TOCHI).
+• Received J.R. Dorfman Prize for Best Undergraduate Research Project in College of Computer, Mathematics, and Physical Sciences for 2003-2004.
+Teaching Assistant
+Computer Science Department University of Maryland, College Park, MD September 2002 – December 2003
+• Created and managed projects using SCRUM methodologies.
+• Answered students’ questions and provided corrective feedback
+during office hours.
+• Supported Computer Science II (CMSC 214), Computer
+Organization (CMSC 311), and Data Structures (CMSC 420).
+User Interface Designer, Programmer/Analyst ProList, Inc., Gaithersburg, MD
+June 1998 – August 2003 (Summer and Winter Breaks)
+• Designed, implemented, and integrated web-based customer relations management (CRM) system with mass mailing facility.
+• Created systems that improved relationships with existing
+customers and earned company certification as a Microsoft Premiere Vender.
+EDUCATION
+• B.S. Computer Science with Honors, Magna Cum Laude – May 2004 University of Maryland, College Park
+GPA: 3.9/4.0
+• B.A. Economics, Magna Cum Laude – May 2004 University of Maryland, College Park
+GPA: 3.9/4.0
+• International Baccalaureate Diploma – May 2000 Richard Montgomery High School, Rockville, MD
+PUBLICATIONS AND PATENTS
+• Conroy, K., Levin, D., Guimbretiere, F. ProofRite: A Paper-Augmented Word Processor. Interacting with Computers. Submitted Nov. 2006.
+2
+
+KEVIN CONROY
+• Conroy, K., Levin, D., Guimbretiere, F. ProofRite: A Paper-Augmented Word
+Processor. User Interface Software and Technology (UIST) 2004 Companion (Peer-
+Reviewed Demonstration), Oct. 2004, pp. 29-30.
+• Hunleth, F., Gritton, C., Conroy, K., Stoner, R. Client-server architectures and
+methods for zoomable user interfaces. United States Patent Application
+#20050283798. Filed June 2005.
+• Gritton, C., Aufderheide, D., Conroy, K., Goyal, N., Hunleth, F., Scheirey, S.,
+Simpkins, D. Distributed software construction for user interfaces. United States
+Patent Application #20060176403. Filed August 2006.
+• Hunleth, F., Moshiri, N., Napier, W., Simpkins, D., Wroblewski, F., Conroy, K.,
+Gritton, C. Methods and systems for enhancing television applications using 3D pointing. United States Patent Application #20060184966. Filed August 2006.
+AWARDS
+• J.R. Dorfman Prize for Best Undergraduate Research Project in College of Computer, Mathematics, and Physical Sciences – May 2004
+• Outstanding Graduate Teaching Assistant, College of Computer, Mathematics, and Physical Sciences – May 2004
+• Upsilon Pi Epsilon, the first and only international honor society for the computing sciences, UMCP Chapter – May 2004
+• University of Maryland Honors Citation – April 2003
+• National Society of Collegiate Scholars – April 2003
+• Golden Key International Honor Society – September 2003
+• President’s Scholarship, University of Maryland – 2000-2004
